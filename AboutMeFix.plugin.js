@@ -50,14 +50,6 @@ module.exports = !global.ZeresPluginLibrary
                 
                 .section-3FmfOT.section--1D3ev.lastSection-3_1yKt {
                   padding: 12px 12px 12px 12px;
-                }
-                
-                .banner-2boKnS.popoutBanner-16rVDY {
-                  height: 80px;
-                }
-                
-                .avatarWrapperNormal-1tQ3Je.avatarWrapper-3y0KZ1.avatarPositionNormal-V4Mjtq.clickable-3iBWTO {
-                  top: 36px;
                 }`
           );
         }
