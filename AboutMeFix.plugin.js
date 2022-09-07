@@ -49,7 +49,7 @@ module.exports = !global.ZeresPluginLibrary
                 }
                 
                 .section-3FmfOT.section--1D3ev.lastSection-3_1yKt {
-                  padding: 12px 12px 12px 12px;
+                  padding: 12px;
                 }`
           );
         }
