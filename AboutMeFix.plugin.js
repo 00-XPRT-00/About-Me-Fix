@@ -1,7 +1,7 @@
 /**
  * @name AboutMeFix
  * @authorLink https://github.com/00-XPRT-00
- * @version 1.0.0
+ * @version 1.0.1
  * @website https://github.com/00-XPRT-00/AboutMeFix
  * @source https://github.com/00-XPRT-00/About-Me-Fix/releases/latest/download/AboutMeFix.plugin.js
  */
@@ -44,8 +44,20 @@ module.exports = !global.ZeresPluginLibrary
           PluginUtilities.addStyle(
             "aboutme",
             `
-                .clamped-2ZePhX {
+                .lineClamp2Plus-2RYGV2 {
                     display: inherit;
+                }
+                
+                .section-3FmfOT.section--1D3ev.lastSection-3_1yKt {
+                  padding: 12px 12px 12px 12px;
+                }
+                
+                .banner-2boKnS.popoutBanner-16rVDY {
+                  height: 80px;
+                }
+                
+                .avatarWrapperNormal-1tQ3Je.avatarWrapper-3y0KZ1.avatarPositionNormal-V4Mjtq.clickable-3iBWTO {
+                  top: 36px;
                 }`
           );
         }
